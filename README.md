@@ -5,6 +5,11 @@
 
 ---
 
+<img width="1196" height="848" alt="demo" src="https://github.com/user-attachments/assets/142ca4e6-8d5d-4835-a8d3-a7c69373a23e" />
+
+
+---
+
 ## 🎮 游戏特色一览
 
 ### 1. 自适应难度系统（Difficulty Manager）
