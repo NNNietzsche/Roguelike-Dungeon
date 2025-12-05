@@ -13,10 +13,11 @@
 </tr>
 </table>
 
-
-<img alt="gameover" src="https://github.com/user-attachments/assets/0b31b261-02f4-4718-ae82-cd80ee2535ef" style="width:50%; max-width:400px" />
-
-
+<table align="center">
+<tr>
+<td><img alt="gameover" src="https://github.com/user-attachments/assets/0b31b261-02f4-4718-ae82-cd80ee2535ef" style="width:50%; max-width:400px"></td>
+</tr>
+</table>  
 ---
 
 ## 🎮 游戏特色一览
