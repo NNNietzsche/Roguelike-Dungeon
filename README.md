@@ -5,7 +5,7 @@
 
 ---
 - 游戏内容
-<img width="1196" height="848" alt="demo" src="https://github.com/user-attachments/assets/142ca4e6-8d5d-4835-a8d3-a7c69373a23e" />
+<img width="1196" height="848" alt="demo" src="https://github.com/user-attachments/assets/142ca4e6-8d5d-4835-a8d3-a7c69373a23e" style= "width:50%; max-width:400px;"/>
 
 <img width="1199" height="848" alt="2" src="https://github.com/user-attachments/assets/3e40e1cc-6b5e-43c8-9bed-8cefc34f4ec1" />
 
