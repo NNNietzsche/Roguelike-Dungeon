@@ -6,7 +6,7 @@
 ---
 - 游戏内容
 
-<table align="center">
+<table style="margin-left:auto; margin-right:auto;">
 <tr>
 <td><img src="https://github.com/user-attachments/assets/142ca4e6-8d5d-4835-a8d3-a7c69373a23e" width="70%"></td>
 <td><img src="https://github.com/user-attachments/assets/3e40e1cc-6b5e-43c8-9bed-8cefc34f4ec1" width="70%"></td>
